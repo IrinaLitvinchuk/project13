@@ -1,0 +1,26 @@
+[
+    {
+        "date": "2021-05-01",
+        "amount": 1000,
+        "currency": "USD",
+        "description": "Salary"
+    },
+    {
+        "date": "2021-05-02",
+        "amount": -50,
+        "currency": "EUR",
+        "description": "Dinner"
+    },
+    {
+        "date": "2021-05-03",
+        "amount": -20,
+        "currency": "USD",
+        "description": "Coffee"
+    },
+    {
+        "date": "2021-05-04",
+        "amount": 200,
+        "currency": "GBP",
+        "description": "Gift"
+    }
+]
